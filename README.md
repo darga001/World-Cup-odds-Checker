@@ -2,7 +2,7 @@
 
 A Vite + React dashboard for World Cup prediction markets from Kalshi and Polymarket.
 
-The React frontend only calls the local Vercel-compatible API route at `/api/markets`. That serverless function fetches Kalshi and Polymarket independently, filters for specific World Cup markets, normalizes matching markets into one shape, and returns sorted results.
+The React frontend only calls the local Vercel-compatible API route at `/api/markets`. That serverless function fetches Kalshi and Polymarket independently, filters for specific World Cup markets, normalizes matching markets into one shape, and returns sorted results. (this was vibe coded for fun)
 
 ## Local Setup
 
